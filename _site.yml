@@ -19,7 +19,13 @@ navbar:
         - text: "Dolphin Swimming (Computer Vision)"
           href: dcv.html
     - text: "Embedded Projects"
-      href: about.html
+      menu:
+        - text: "Autonomous Drone"
+          href: ad.html
+        - text: "Autonomous Surface Vehicle"
+          href: asv.html
+        - text: "Affordable Prosthetic"
+          href: ap.html
     - text: "Animal Projects"
       menu:
         - text: "Custom Goat Wheelchair"

@@ -1,0 +1,37 @@
+---
+title: "Embedded Projects"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Affordable Prosthetic {style="text-align:center;"}
+
+***Goal: Copy-cat 3D printed robotic hand that mimics motion in x plane and finger flexing***
+
+How does it work?
+
+The user wears a glove retrofitted with sensors and an MCU that communicates over the air while standing in front of an Xbox Kinect sensor. The Kinect picks up the user’s x-plane motion and the flex sensors on the gloves pick up finger flexing motion. 
+
+Data is then sent to remote robotic hand.
+
+<video width="640" height="360" controls>
+  <source src="assets/ap2.mov" type="video/mp4">
+</video>
+
+<br> 
+
+The 3D-printed robotic hand is mounted on a linear actuator to mimic motion in the x plane, the fingers are all individually controlled by high-torque servo motors. Users can record motion and play back motion at a later time. 
+
+<video width="640" height="360" controls>
+  <source src="assets/ap1.mov" type="video/mp4">
+</video>
+
+<br> 
+
+***Bonus: here was the first iteration I designed my freshman year of college!***
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hkRgjui40k?si=uhlQMWavIvCL7H2R" data-external= "1" > </iframe>
