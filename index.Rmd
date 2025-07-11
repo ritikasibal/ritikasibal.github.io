@@ -1,5 +1,5 @@
 ---
-title: "Ritika Sibal"
+title: "Welcome!"
 output:
   distill::distill_article:
 ---
@@ -13,11 +13,16 @@ knitr::opts_chunk$set(echo = TRUE)
 <img src="assets/RitikaSibal.jpg" style="width:300px; max-width:100%; border-radius: 8px;"/>
 
 <div style="flex: 1; min-width: 300px;">
-<h2 style="margin-top: 0; padding-top: 0;">Welcome!</h2>
 
 I graduated in 2020 from the University of Michigan with a ***bachelor’s in computer engineering***. After graduating I worked as an embedded engineer at Apple and later Atomic Technologies. I recently graduated from Boston University with a research-based ***master’s in ecology, evolution, and behavior***.
 
+
 This website showcases my research experience, personal projects, and interests. If you would like to contact me, feel free to reach out at [ritikasibal2@gmail.com](mailto:ritikasibal2@gmail.com)!
+
+<br>
+
+[Google Scholar](https://scholar.google.com/citations?user=D2ibwKIAAAAJ&hl=en)    
+[LinkedIn](https://www.linkedin.com/in/ritika-sibal-5002b9127/)
 
 </div>
 </div>
