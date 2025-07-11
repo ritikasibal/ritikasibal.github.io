@@ -1,0 +1,21 @@
+---
+title: "Wildlife x Technology Work"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Thermal Orangutan Pose Estimation {style="text-align:center;"}
+
+***Goal: develop a 2D pose estimation tool using thermal imaging***
+
+This is currently in progress! 
+
+The basic idea behind it is that thermal camera may provide a better alternative to visual in highly dense forest environments. Check it out!
+
+<video width="640" height="360" controls>
+  <source src="assets/video_132.mp4" type="video/mp4">
+</video>

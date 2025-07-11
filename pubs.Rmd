@@ -1,0 +1,39 @@
+---
+title: "Publications & Presentations"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Publications 
+
+Sibal, Ritika, Liew, Evelyn, Susanto Tri Wahyu, Betke Margrit, Knott, Cheryl. “DeepHutan: A novel, robust computer vision model for wild Borean orangutan (Pongo pygmaeus wurmbii) pose estimation”. ***Manuscript in preparation***. Expected July 2025
+
+Sibal, Ritika, Kane, Erin, Knott, Cheryl. “The Ontogeny of Positional Behavior in Wild Bornean Orangutans (Pongo pygmaeus wurmbii)”. ***Manuscript in preparation***. Expected Aug 2025
+
+[Sibal, Ritika, Zhang, Ding, Shorter, Alex, Barton, Kira. “Bidirectional LSTM Recurrent Neural Network Plus Hidden Markov Model For Wearable Sensor Based Dynamic State Estimation”, Dynamic Systems and Control Journal. May 2019](https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/1/2/021002/1081846/Bidirectional-LSTM-Recurrent-Neural-Network-Plus?redirectedFrom=fulltext)
+
+[Sammons, Patrick, Bollieni, Sahit, Sibal, Ritika, and Barton, Kira. “Temperature and Humidity Variation Effect on Process Behavior in Electrohydrodynamic Jet Printing of a Class of Optical Adhesives”, Solid Free Form Journal. August 2017](https://repositories.lib.utexas.edu/server/api/core/bitstreams/db968022-f316-452e-a91e-e9d60f9d0d39/content)
+
+<br><br>
+
+# Presentations
+
+***Poster Presentations***
+
+* A computer vision approach to comparing terrestrial gait in wild Bornean orangutans (Pongo pygmaeus wurmbii) and chimpanzees (Pan troglodytes)
+American Association for the Advancement of Science, Hynes Convention Center, Boston, Feb 2025
+
+***Oral Presentations***
+
+* Investigating locomotion in wild Bornean orangutans using computer vision and behavioral sampling
+Master’s Research Symposium, Boston University, Boston, May 2025
+* A computer vision approach to comparing terrestrial gait in wild Bornean orangutans (Pongo pygmaeus wurmbii) and chimpanzees (Pan troglodytes)
+94th Annual Meeting of the American Association of Biological Anthropologists, Baltimore Marriott Waterfront, Baltimore, Mar 2025
+* Using computer vision to analyze the ontogeny of locomotion
+Student Conference on Conservation Sciences, American Museum of Natural History, New York City, Oct 2024
+* Using computer vision to analyze the ontogeny of locomotion
+Biology Graduate Research Symposium, Boston University, Boston, Mar 2024

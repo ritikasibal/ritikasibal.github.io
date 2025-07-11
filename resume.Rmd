@@ -1,0 +1,11 @@
+---
+title: "Resume"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<iframe src="assets/CV.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="800px" style="border: none;"></iframe>

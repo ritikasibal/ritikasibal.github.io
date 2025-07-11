@@ -1,0 +1,34 @@
+name: "my-site"
+title: "Ritika Sibal"
+output_dir: "docs"
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Wildlife x Technology Work"
+      menu:
+        - text: "Orangutan Pose Estimation (OPE)"
+          href: ope.html
+        - text: "Thermal OPE"
+          href: tope.html
+        - text: "Orangutan Facial Identification"
+          href: ofi.html
+        - text: "Dolphin Swimming (IMU)"
+          href: dimu.html
+        - text: "Dolphin Swimming (Computer Vision)"
+          href: dcv.html
+    - text: "Embedded Projects"
+      href: about.html
+    - text: "Animal Projects"
+      menu:
+        - text: "Custom Goat Wheelchair"
+          href: rocky.html
+    - text: "Publications & Presentations"
+      href: pubs.html
+    - text: "Resume"
+      href: resume.html
+
+output:
+  distill::distill_article:
+    toc: true

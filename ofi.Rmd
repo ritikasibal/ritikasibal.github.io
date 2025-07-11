@@ -1,0 +1,25 @@
+---
+title: "Wildlife x Technology Work"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Orangutan Facial Identification {style="text-align:center;"}
+
+***Goal: develop facial identification application for wild orangutan recognition***
+
+This is currently in progress! This is a collaboration with the [Visual Geometry Group in University of Oxford](https://www.robots.ox.ac.uk/~vgg/)
+
+<video width="640" height="360" controls>
+  <source src="assets/fi_1.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video width="640" height="360" controls>
+  <source src="assets/fi_2.mp4" type="video/mp4">
+</video>

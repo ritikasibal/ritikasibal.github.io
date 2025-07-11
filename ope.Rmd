@@ -1,0 +1,19 @@
+---
+title: "Wildlife x Technology Work"
+output:
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Orangutan pose estimation {style="text-align:center;"}
+
+***Goal: develop a 2D pose estimation tool to automatically detect joint position in videos of wild orangutans.***
+
+Publication detailing the full method coming soon! In the mean time, here are some example videos of the model in action!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zTDKKoYHvb8?si=Uy2mhH12xGjW5T1S" data-external= "1" > </iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWTq4YX8zuA" data-external= "1" > </iframe>

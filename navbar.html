@@ -1,0 +1,86 @@
+<nav class="navbar">
+  <ul class="nav-menu">
+    <li><a href="https://ritikasibal.github.io/index.html">Home</a></li>
+
+    <li class="dropdown">
+      <a href="https://ritikasibal.github.io/Untitled.html">Research</a>
+      <ul class="dropdown-content">
+        <li><a href="https://ritikasibal.github.io/ml.html">Machine Learning</a></li>
+        <li><a href="https://ritikasibal.github.io/stats.html">Statistics</a></li>
+      </ul>
+    </li>
+
+    <li><a href="https://ritikasibal.github.io/about.html">About</a></li>
+  </ul>
+</nav>
+
+<style>
+/* Basic navbar layout */
+.navbar {
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+  border-bottom: 1px solid #ddd;
+}
+
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+/* Remove bullets and layout horizontally */
+.nav-menu li {
+  position: relative;
+}
+
+/* Links */
+.nav-menu a {
+  text-decoration: none;
+  color: #333;
+  padding: 8px 12px;
+  display: block;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.nav-menu a:hover {
+  background-color: #e2e6ea;
+}
+
+/* Dropdown styling */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 35px;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+  list-style: none;
+  padding: 10px 0;
+  min-width: 180px;
+  z-index: 999;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.dropdown-content li {
+  margin: 0;
+}
+
+.dropdown-content a {
+  padding: 10px 15px;
+  color: #333;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
