@@ -4,8 +4,6 @@ output_dir: "docs"
 
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "Wildlife x Technology Work"
       menu:
         - text: "Orangutan Pose Estimation (OPE)"

@@ -14,15 +14,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="flex: 1; min-width: 300px;">
 
-I graduated in 2020 from the University of Michigan with a ***bachelor’s in computer engineering***. After graduating I worked as an embedded engineer at Apple and later Atomic Technologies. I recently graduated from Boston University with a research-based ***master’s in ecology, evolution, and behavior***.
-
+I hold a **bachelor's degree in Computer Engineering** from the University of Michigan (2020), and recently completed a research-based ***master’s in Ecology, Evolution, and Behavior** at Boston University. My path bridges engineering and biology — from building working as a firmware engineer at Apple and Atmosic Technologies to recently applying computer vision and machine learning to expand biological understanding.
 
 This website showcases my research experience, personal projects, and interests. If you would like to contact me, feel free to reach out at [ritikasibal2@gmail.com](mailto:ritikasibal2@gmail.com)!
 
-<br>
 
-[Google Scholar](https://scholar.google.com/citations?user=D2ibwKIAAAAJ&hl=en)    
-[LinkedIn](https://www.linkedin.com/in/ritika-sibal-5002b9127/)
+***[Google Scholar](https://scholar.google.com/citations?user=D2ibwKIAAAAJ&hl=en)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[LinkedIn](https://www.linkedin.com/in/ritika-sibal-5002b9127/)***
 
 </div>
 </div>
