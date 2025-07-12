@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="flex: 1; min-width: 300px;">
 
-I hold a **bachelor's degree in Computer Engineering** from the University of Michigan (2020), and recently completed a research-based ***master’s in Ecology, Evolution, and Behavior** at Boston University. My path bridges engineering and biology — from building working as a firmware engineer at Apple and Atmosic Technologies to recently applying computer vision and machine learning to expand biological understanding.
+I hold a **bachelor's degree in Computer Engineering** from the University of Michigan (2020), and recently completed a research-based **master’s in Ecology, Evolution, and Behavior** at Boston University. My path bridges engineering and biology — from first working as a firmware engineer at Apple and Atmosic Technologies to more recently applying computer vision and machine learning to expand biological understanding.
 
 This website showcases my research experience, personal projects, and interests. If you would like to contact me, feel free to reach out at [ritikasibal2@gmail.com](mailto:ritikasibal2@gmail.com)!
 
