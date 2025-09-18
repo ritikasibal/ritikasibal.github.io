@@ -14,10 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="flex: 1; min-width: 300px;">
 
-I hold a **bachelor's** degree in Computer Engineering from the University of Michigan (2020), and recently completed a research-based **master’s** at Boston University. My experience ranges from developing firmware at Apple and Atmosic Technologies to more recently applying computer vision and machine learning to expand biological understanding.
+<br><br>
+
+I hold a **bachelor's** degree in Computer Engineering from the University of Michigan (2020), and recently completed a research-based **master’s** at Boston University.
 
 This website showcases my research experience, personal projects, and interests. If you would like to contact me, feel free to reach out at [ritikasibal2@gmail.com](mailto:ritikasibal2@gmail.com)!
 
+<br><br>
 
 ***[Google Scholar](https://scholar.google.com/citations?user=D2ibwKIAAAAJ&hl=en)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[LinkedIn](https://www.linkedin.com/in/ritika-sibal-5002b9127/)***
 
